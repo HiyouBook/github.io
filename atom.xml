@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.booksiyi.com</id>
+    <id>https://booksiyi.co</id>
     <title>Gridea</title>
-    <updated>2022-09-01T13:23:47.779Z</updated>
+    <updated>2022-09-01T13:27:17.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://www.booksiyi.com"/>
-    <link rel="self" href="https://www.booksiyi.com/atom.xml"/>
+    <link rel="alternate" href="https://booksiyi.co"/>
+    <link rel="self" href="https://booksiyi.co/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://www.booksiyi.com/images/avatar.png</logo>
-    <icon>https://www.booksiyi.com/favicon.ico</icon>
+    <logo>https://booksiyi.co/images/avatar.png</logo>
+    <icon>https://booksiyi.co/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://www.booksiyi.com/post/hello-gridea/</id>
-        <link href="https://www.booksiyi.com/post/hello-gridea/">
+        <id>https://booksiyi.co/post/hello-gridea/</id>
+        <link href="https://booksiyi.co/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
