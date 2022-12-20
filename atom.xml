@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://booksiyi.co</id>
     <title>Gridea</title>
-    <updated>2022-09-01T13:27:17.260Z</updated>
+    <updated>2022-12-20T15:14:40.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://booksiyi.co"/>
     <link rel="self" href="https://booksiyi.co/atom.xml"/>
@@ -11,35 +11,22 @@
     <icon>https://booksiyi.co/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <title type="html"><![CDATA[半个ACMer退役记]]></title>
         <id>https://booksiyi.co/post/hello-gridea/</id>
         <link href="https://booksiyi.co/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <content type="html"><![CDATA[<p>2022年12月18日，伴随着第四十七届ICPC南京站结束，我这半个ACMer也就退役了。</p>
+<h4 id="acm经历">ACM经历</h4>
+<p>其实大一来我最开始了解的并不是ACM实验室，但是因为我高中是文科，选的专业不属于计院，被拒绝了。后面偶然了解到ACM实验室，ACM实验室是收非计算机专业的学生，被WQL学长面试（进去后，学长学姐说我和这位WQL学长长的很像），就这样进入了ACM实验室，成为了半个ACMer。</p>
+<p>大一上，实验室其实有很多新生，但是就我一个非计院的，我一个人也不认识，后面因为一些巧合认识了我的队友LQX（LQX是因为我们水群后互加了QQ，然后我俩开始一起做题）和LHJ（LHJ当时和我想加入一个社团组织，但是很巧又很幸运的是我们都没被选上）。我们仨分工明确，因为我和LHJ的英语水平一言难尽，所以翻译都是交给LQX，LHJ思维很好，每次难题都交给他，我是代码手，负责实现他们的思想（其实我负责划水）。校赛我们成功拿到了金牌（这个时候其实我的愿望就是在区域赛上能拿到一个铜）。</p>
+<p>大一下，我和队友们打了四川省赛，因为罚时太多，掉到了铜牌区，离银牌一步之遥，当时还感觉挺可惜的（当时没想到这居然是三年唯一一次ACM的线下比赛）。大一结束时，我们学校有一个小学期，但是ACM实验室集训当小学期，于是开始了集训生活，集训这段时间确实是我提升最大的时候，可以算是刚刚摸到ACM的门槛了，这个时候我是一个ACMer。</p>
+<p>大二上，实验室招新了，我们也需要出一些题目给大一新生做，当时我出了一道题目，里面有一位BOOK学姐的人物，于是他们都一直叫我BOOK学姐（虽然我是男生）。大二上我们要打ICPC上海站和南京站（南京站全是原题），但是全部都是线上，队伍数量激增，我感觉应该是比以前更难了，不出意外这两站我们都打铁了，成为了铁牌ACMer选手。校赛的时候自己突然不在状态，最后只拿了亚军，状态的下滑，让我又变成了半个ACMer。</p>
+<p>大二下，队友LQX离队（因为线上赛的缘故，我们一致认为拿牌的希望比较渺茫，所以LQX从ACMer变成了CTFer，如今来看他在CTF上确实很有天赋和兴趣），于是我们新加入了一位队友LWH（大二入队，非常努力，被人称为鸡哥）。大二下结束时，集训又开始了，但是我内心认为拿牌希望渺茫，直接水了很久很久，直接导致我们的省赛不如大一的成绩，直接成绩倒退（可以说是铜首变铜尾）。</p>
+<p>大三上，校赛出题，我出了一道《码魂》，里面有两个人物 王抑云（现在的网名）和BOOK（之前的网名），里面写了王抑云和BOOK的爱情故事，其实BOOK的原型其实是我喜欢的女生（但是一直没人知道这个，所以最后码魂的结局其实是一个bad end）。大三我们队伍有三场比赛ICPC沈阳站，ICPC南京站和CCPC绵阳站，于是我把自己又回炉重造（大二的时候我已经回炉重造一次了，形成了自己的码风）。沈阳站如期而至，我们直接挤入银牌区（真的选对站，少努力几年）。后面 绵阳站，我认为A题是一个博弈搜索，写出来发现超时，我就在想如何记录某一个状态，一直到最后都没想出来，然后拿了铜牌。最后的南京站（我可以称南京站的宝贝是袋鼠，每年有一道题是袋鼠），我居然一眼看出了袋鼠题的做法，但是由于我们跟错了榜，最后只能在铜牌区尾部。今年的比赛都有牌，甚至有银牌，这也算超额完成了我大一时候的愿望（不过每场比赛都有遗憾，感情也有了遗憾）。</p>
+<h4 id="结尾">结尾</h4>
+<p>我三年ACM生涯就这样结束了（还是感觉自己太水了，所以是半个ACMer），后面或许会开始写一些项目和找实习了。</p>
+<p>谢谢我的三位队友LQX，LHJ，LWH（很巧的是三人的姓首字母都是L）、ACM实验室的伙伴、BOOK， 高中同学LSS（居然还是L开头）、学长学姐和在三年大学中遇到的所有人。</p>
 ]]></content>
     </entry>
 </feed>
