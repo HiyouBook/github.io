@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://booksiyi.co</id>
     <title>BookSiYi</title>
-    <updated>2022-12-20T15:33:59.790Z</updated>
+    <updated>2022-12-20T15:38:05.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://booksiyi.co"/>
     <link rel="self" href="https://booksiyi.co/atom.xml"/>
@@ -12,11 +12,12 @@
     <rights>All rights reserved 2022, BookSiYi</rights>
     <entry>
         <title type="html"><![CDATA[半个ACMer退役记]]></title>
-        <id>https://booksiyi.co/post/hello-gridea/</id>
-        <link href="https://booksiyi.co/post/hello-gridea/">
+        <id>https://booksiyi.co/post/acmer/</id>
+        <link href="https://booksiyi.co/post/acmer/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>2022年12月18日，伴随着第四十七届ICPC南京站结束，我这半个ACMer也就退役了。</p>
+        <content type="html"><![CDATA[<!-- more -->
+<p>2022年12月18日，伴随着第四十七届ICPC南京站结束，我这半个ACMer也就退役了。</p>
 <h3 id="acm经历">ACM经历</h3>
 <p>其实大一来我最开始了解的并不是ACM实验室，但是因为我高中是文科，选的专业不属于计院，被拒绝了。后面偶然了解到ACM实验室，ACM实验室是收非计算机专业的学生，被WQL学长面试（后面学长学姐说我和这位WQL学长长的很像），就这样进入了ACM实验室，成为了半个ACMer。</p>
 <p>大一上，实验室其实有很多新生，但是就我一个非计院的，我一个人也不认识，后面因为一些巧合认识了我的队友LQX（LQX是因为我们水群后互加了QQ，然后我俩开始一起做题）和LHJ（LHJ当时和我想加入一个社团组织，但是很巧又很幸运的是我们都没被选上）。我们仨分工明确，因为我和LHJ的英语水平一言难尽，所以翻译都是交给LQX，LHJ思维很好，每次难题都交给他，我是代码手，负责实现他们的思想（其实我负责划水）。校赛我们成功拿到了金牌（这个时候其实我的愿望就是在区域赛上能拿到一个铜）。</p>
